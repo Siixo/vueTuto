@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-800 text-white p-6 rounded-lg shadow-lg">
+  <div class="bg-gray-600 text-white p-6 rounded-lg shadow-lg">
     <h1 class="text-lg font-bold">Exercice 1:</h1>
     <span class="flex items-center">
       <span class="h-px flex-1 bg-gray-300"></span>
